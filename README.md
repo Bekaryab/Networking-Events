@@ -43,7 +43,13 @@ User profile images and recent chats are stored locally (UserDefaults & FileMana
 - **Architecture:** MVVM  
 - **Backend:** Firebase (Authentication, Firestore)  
 - **Async:** Combine  
-- **Media:** PhotosUI  
+- **Media:** PhotosUI
+
+  
+<p align="center">
+  <h3>App Demonstration</h3>
+  <video src="https://github.com/user-attachments/assets/80ed7178-546e-40d8-8cb6-56a02de43c9d" width="300" controls></video>
+</p>
 
 
 ## ⚙️ Installation
@@ -54,8 +60,4 @@ git clone https://github.com/your-username/Networking-Events.git
 
 
 
-<p align="center">
-  <h3>App Demonstration</h3>
-  <video src="https://github.com/user-attachments/assets/80ed7178-546e-40d8-8cb6-56a02de43c9d" width="300" controls></video>
-</p>
 
